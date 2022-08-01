@@ -1245,9 +1245,9 @@
 			background-position: center 1.35em;
 			background-repeat: no-repeat;
 			background-size: auto;
-			border: 1px solid #fff;
+			border: 1px solid rgb(137, 199, 21);
 			border-radius: 100%;
-			color: rgba(255, 255, 255, 0.75);
+			color: rgba(41, 168, 136, 0.75);
 			display: block;
 			height: 4em;
 			text-indent: 4em;
@@ -1260,8 +1260,8 @@
 
 			#banner .more:hover {
 				background-color: rgba(255, 255, 255, 0.05);
-				border: 1px solid #fff;
-				color: #FFF;
+				border: 1px solid rgb(168, 21, 21);
+				color: rgb(60, 21, 104);
 			}
 
 		#banner video {
