@@ -1150,6 +1150,7 @@
 
 		}
 
+
 /* Banner */
 
 	#banner {
@@ -1263,7 +1264,6 @@
 				border: 1px solid rgb(204, 249, 255);
 				color: rgb(98, 145, 184);
 			}
-
 		#banner video {
 			-moz-transform: translateX(50%) translateY(50%);
 			-webkit-transform: translateX(50%) translateY(50%);
